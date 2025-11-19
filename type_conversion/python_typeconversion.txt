@@ -1,0 +1,10 @@
+python directly int or str ko jod nahi sakta hai or agar tum string ko convert karne ki koshish karte ho toh
+wo agar 'a' ko karoge toh wo error dega ki aise value ko number bana rahe ho jiska base 10 nahi hai;
+
+yeh string ko kaise bhi int me  convert nhi kar pata hai 
+
+par yeh string ko boolean me convert karta hai '0' iske liye ek truthy value hai or '1' iske liye true value hai 
+or '' false value hai iske liye 
+
+
+python clear hai type se type ko hi jodunga faltu ka nahi karunga 
