@@ -37,3 +37,11 @@
 #     print(i, end="")
 #     time.sleep(1)
 
+
+# # '\r' yeh print karne k baad fir se wahi usi line par aa jata hai jaha par isne pehle print kia tha ;
+# import time 
+
+
+# for i in range(1,101):
+#     print(f'\rprogress: {i}%' , end = "")
+#     time.sleep(0.2)
